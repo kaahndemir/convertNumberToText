@@ -1,12 +1,12 @@
 Dart SDK has to be downloaded to use this program.
 
-[🪟] Open up terminal/cmd 
-[📂] Navigate to this folder 
-[🧑‍💻] compile 'dart run start.dart' 
-[🔢] Enter the number 
-[📱] Value will be displayed on the screen 
+[🪟] Open up terminal/cmd <br>
+[📂] Navigate to this folder <br>
+[🧑‍💻] compile 'dart run start.dart' <br>
+[🔢] Enter the number <br>
+[📱] Value will be displayed on the screen <br>
 
 Programmed by ⌊CodeOguz⌉
 
-Languages:
+Languages: <br>
 •Dart 
