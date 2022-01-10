@@ -154,7 +154,7 @@ void main() {
       cikti += '${yuzler}';
     }
     if (int.parse(sayiParcaList[i][0]) > 0){
-      cikti += 'yüz ';
+      cikti += ' yüz ';
     }
     if(int.parse(sayiParcaList[i][1]) > 0){
       cikti += '${onlar[(int.parse(sayiParcaList[i][1])) ]} ';
