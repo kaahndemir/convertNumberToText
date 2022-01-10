@@ -1,5 +1,3 @@
-<!-- 
-
 Dart SDK has to be downloaded to use this program.
 
 [🪟] Open up terminal cmd
@@ -12,5 +10,3 @@ Programmed by ⌊CodeOguz⌉
 
 Languages:
 •Dart 
-
--->
