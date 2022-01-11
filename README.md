@@ -1,16 +1,16 @@
-<!-- 
+# number_converter_desktop
 
-Dart SDK has to be downloaded to use this program.
+A new Flutter project.
 
-[🪟] Open up terminal cmd
-[📂] Navigate to this folder
-[🧑‍💻] compile 'dart run start.dart'
-[🔢] Enter the number
-[📱] Value will be displayed on the screen
+## Getting Started
 
-Programmed by ⌊CodeOguz⌉
+This project is a starting point for a Flutter application.
 
-Languages:
-•Dart 
+A few resources to get you started if this is your first Flutter project:
 
--->
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
