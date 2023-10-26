@@ -12,9 +12,9 @@ This is a Dart code that convert any given number to Turkish translation.
 ## Usage
 [🪟] Open up terminal/cmd <br>
 [📂] Navigate to this folder <br>
-[🧑‍💻] compile 'dart run start.dart' <br>
+[🧑‍💻] Run ```dart run start.dart``` <br>
 [🔢] Enter the number <br>
-[📱] Value will be displayed on the screen <br>
+[📱] Converted text will be displayed on the screen <br>
 
 ## Contributing
 I welcome anyone that wants to contribute to the project.
