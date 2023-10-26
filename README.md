@@ -6,7 +6,8 @@ This is a Dart code that convert any given number to Turkish translation.
 
 ## Installation
 - Install git.
-- Clone the program bu running: git clone https://github.com/codeoguz/SayiyiYaziyaCevir
+- Clone the program by running: <br>
+```git clone https://github.com/codeoguz/convertNumberToText```
 
 ## Usage
 [🪟] Open up terminal/cmd <br>
