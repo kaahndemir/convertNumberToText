@@ -21,4 +21,4 @@ I welcome anyone that wants to contribute to the project.
 
 <hr/>
 
-*Programmed by [codeoguz](github.com/codeoguz)*
+*Programmed by [codeoguz](https://github.com/codeoguz)*
